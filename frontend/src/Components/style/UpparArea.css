@@ -1,0 +1,12 @@
+.component_area {
+    width: 100%;
+    padding: 10px;
+    background: rgb(191,218,220);
+    background: linear-gradient(90deg, rgba(191,218,220,1) 21%, rgba(187,219,221,1) 66%, rgba(255,255,255,1) 99%);
+    margin: 0;
+}
+.DicsussDIV{
+    display: flex;
+    justify-content: space-between;
+    padding: 19px 50px 0 50px;
+}
